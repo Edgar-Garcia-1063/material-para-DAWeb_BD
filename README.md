@@ -15,3 +15,6 @@ este web contiene materiales curriculares
 
 https://www.mclibre.org/consultar/webapps/
 
+https://www.python.org/downloads/
+![image](https://github.com/user-attachments/assets/6765e004-66d1-40b1-b552-042bee8d732a)
+
