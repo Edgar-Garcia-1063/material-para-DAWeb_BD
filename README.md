@@ -15,7 +15,7 @@ este web contiene materiales curriculares
 
 https://www.mclibre.org/consultar/webapps/
 
-##framework y lenguaje de programacion
+## framework y lenguaje de programacion
 
 pagina web de programacion
 
@@ -30,4 +30,9 @@ programacion online
 https://coddy.tech/
 ![image](https://github.com/user-attachments/assets/6765e004-66d1-40b1-b552-042bee8d732a)
 
-##diseño web con figma
+## diseño web con figma
+
+https://www.figma.com/
+
+![image](https://github.com/user-attachments/assets/da756db9-d717-4d75-be9d-b926b1e6e3e2)
+
